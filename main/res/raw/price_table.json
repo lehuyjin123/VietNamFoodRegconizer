@@ -1,0 +1,643 @@
+[
+  {
+    "restaurant": "UEH",
+    "foodItems": [
+      {
+        "foodName": "baba_nau_chuoi_dau",
+        "foodType": "Nuoc",
+        "calories": 300,
+        "price": 45000
+      },
+      {
+        "foodName": "banh_tet",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 40000
+      },
+      {
+        "foodName": "banh_bao",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_beo",
+        "foodType": "Kho",
+        "calories": 150,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_bo",
+        "foodType": "Kho",
+        "calories": 300,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_bot_loc",
+        "foodType": "Kho",
+        "calories": 450,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_can",
+        "foodType": "Kho",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_canh",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "banh_chung",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 45000
+      },
+      {
+        "foodName": "banh_cong",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 30000
+      },
+      {
+        "foodName": "banh_cuon",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 25000
+      },
+      {
+        "foodName": "banh_da_cua",
+        "foodType": "Nuoc",
+        "calories": 350,
+        "price": 30000
+      },
+      {
+        "foodName": "banh_da_lon",
+        "foodType": "Kho",
+        "calories": 200,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_duc",
+        "foodType": "Kho",
+        "calories": 100,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_gai",
+        "foodType": "Kho",
+        "calories": 300,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_giay",
+        "foodType": "Kho",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_gio",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_khot",
+        "foodType": "Kho",
+        "calories": 800,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_la",
+        "foodType": "Kho",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_mi",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_pia",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "banh_tai_heo",
+        "foodType": "Kho",
+        "calories": 150,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_tieu",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_tom_ho_tay",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_trang_nuong",
+        "foodType": "Kho",
+        "calories": 300,
+        "price": 15000
+      },
+      {
+        "foodName": "banh_troi_nuoc",
+        "foodType": "Nuoc",
+        "calories": 300,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_trung_thu",
+        "foodType": "Kho",
+        "calories": 700,
+        "price": 30000
+      },
+      {
+        "foodName": "banh_u",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 20000
+      },
+      {
+        "foodName": "banh_xeo",
+        "foodType": "Kho",
+        "calories": 800,
+        "price": 35000
+      },
+      {
+        "foodName": "bo_kho",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "bo_luc_lac",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 25000
+      },
+      {
+        "foodName": "bo_ne",
+        "foodType": "Kho",
+        "calories": 600,
+        "price": 35000
+      },
+      {
+        "foodName": "bo_nuong_la_lot",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 25000
+      },
+      {
+        "foodName": "bun_bo_hue",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "bun_cha",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 25000
+      },
+      {
+        "foodName": "bun_cha_ca",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "bun_dau_mam_tom",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 25000
+      },
+      {
+        "foodName": "bun_mam",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 25000
+      },
+      {
+        "foodName": "bun_rieu",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "bun_thit_nuong",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "ca_kho_to",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "ca_loc_nuong",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 25000
+      },
+      {
+        "foodName": "ca_muoi_xoi",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "ca_ri_ga",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "ca_sot_ca_chua",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 25000
+      },
+      {
+        "foodName": "canh_bi_do",
+        "foodType": "Nuoc",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "canh_cai",
+        "foodType": "Nuoc",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "canh_chua",
+        "foodType": "Nuoc",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "canh_cua",
+        "foodType": "Nuoc",
+        "calories": 350,
+        "price": 30000
+      },
+      {
+        "foodName": "canh_kho_hoa",
+        "foodType": "Nuoc",
+        "calories": 400,
+        "price": 25000
+      },
+      {
+        "foodName": "canh_khoai_tim",
+        "foodType": "Nuoc",
+        "calories": 300,
+        "price": 20000
+      },
+      {
+        "foodName": "cao_lau",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "cha_ca_la_vong",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "cha_com",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 30000
+      },
+      {
+        "foodName": "cha_lui",
+        "foodType": "Kho",
+        "calories": 300,
+        "price": 15000
+      },
+      {
+        "foodName": "chao_long",
+        "foodType": "Nuoc",
+        "calories": 350,
+        "price": 30000
+      },
+      {
+        "foodName": "chao_vit",
+        "foodType": "Nuoc",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "com_chay_cha_bong",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "com_chien",
+        "foodType": "Kho",
+        "calories": 600,
+        "price": 30000
+      },
+      {
+        "foodName": "com_ga_xoi_mo",
+        "foodType": "Kho",
+        "calories": 700,
+        "price": 40000
+      },
+      {
+        "foodName": "com_lam",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 20000
+      },
+      {
+        "foodName": "com_rang_dua_bo",
+        "foodType": "Kho",
+        "calories": 600,
+        "price": 30000
+      },
+      {
+        "foodName": "com_tam",
+        "foodType": "Kho",
+        "calories": 500,
+        "price": 25000
+      },
+      {
+        "foodName": "com_trang",
+        "foodType": "Kho",
+        "calories": 130,
+        "price": 5000
+      },
+      {
+        "foodName": "cua_hap_bia",
+        "foodType": "Nuoc",
+        "calories": 400,
+        "price": 80000
+      },
+      {
+        "foodName": "cut_lon_xao_me",
+        "foodType": "Kho",
+        "calories": 450,
+        "price": 40000
+      },
+      {
+        "foodName": "dau_hu_sot_ca",
+        "foodType": "Kho",
+        "calories": 250,
+        "price": 20000
+      },
+      {
+        "foodName": "ga_chien",
+        "foodType": "Kho",
+        "calories": 600,
+        "price": 40000
+      },
+      {
+        "foodName": "ga_chien_nuoc_mam",
+        "foodType": "Kho",
+        "calories": 650,
+        "price": 45000
+      },
+      {
+        "foodName": "ga_hap_la_chanh",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 40000
+      },
+      {
+        "foodName": "goi_ca_chich",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 50000
+      },
+      {
+        "foodName": "goi_cuon",
+        "foodType": "Kho",
+        "calories": 200,
+        "price": 15000
+      },
+      {
+        "foodName": "hu_tieu",
+        "foodType": "Nuoc",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "khau_nhuc",
+        "foodType": "Kho",
+        "calories": 450,
+        "price": 35000
+      },
+      {
+        "foodName": "kho_muc_nuong",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "kho_quet",
+        "foodType": "Kho",
+        "calories": 200,
+        "price": 15000
+      },
+      {
+        "foodName": "lap_xuong",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 20000
+      },
+      {
+        "foodName": "luon_om_chuoi_dau",
+        "foodType": "Nuoc",
+        "calories": 450,
+        "price": 40000
+      },
+      {
+        "foodName": "luon_xao_xa_ot",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "mam_chung",
+        "foodType": "Kho",
+        "calories": 300,
+        "price": 20000
+      },
+      {
+        "foodName": "mam_tep_chung_thit",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 25000
+      },
+      {
+        "foodName": "mi_quang",
+        "foodType": "Nuoc",
+        "calories": 500,
+        "price": 35000
+      },
+      {
+        "foodName": "mi_xao_gion",
+        "foodType": "Kho",
+        "calories": 600,
+        "price": 30000
+      },
+      {
+        "foodName": "muc_nhoi_thit",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "nam_pia",
+        "foodType": "Nuoc",
+        "calories": 400,
+        "price": 50000
+      },
+      {
+        "foodName": "nem_chua",
+        "foodType": "Kho",
+        "calories": 200,
+        "price": 15000
+      },
+      {
+        "foodName": "nem_nuong_nha_trang",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "nui_xao",
+        "foodType": "Kho",
+        "calories": 450,
+        "price": 25000
+      },
+      {
+        "foodName": "oc_buou_hap",
+        "foodType": "Nuoc",
+        "calories": 300,
+        "price": 50000
+      },
+      {
+        "foodName": "oc_huong_xao",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 60000
+      },
+      {
+        "foodName": "oc_len_xao_dua",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 50000
+      },
+      {
+        "foodName": "pho",
+        "foodType": "Nuoc",
+        "calories": 400,
+        "price": 35000
+      },
+      {
+        "foodName": "rau_cai",
+        "foodType": "Kho",
+        "calories": 150,
+        "price": 10000
+      },
+      {
+        "foodName": "rau_muong_xao",
+        "foodType": "Kho",
+        "calories": 200,
+        "price": 15000
+      },
+      {
+        "foodName": "sup_cua",
+        "foodType": "Nuoc",
+        "calories": 300,
+        "price": 25000
+      },
+      {
+        "foodName": "tau_hu_nhoi_thit",
+        "foodType": "Kho",
+        "calories": 350,
+        "price": 25000
+      },
+      {
+        "foodName": "tau_hu_non",
+        "foodType": "Kho",
+        "calories": 150,
+        "price": 10000
+      },
+      {
+        "foodName": "thit_dong",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 30000
+      },
+      {
+        "foodName": "thit_kho_tau",
+        "foodType": "Kho",
+        "calories": 550,
+        "price": 30000
+      },
+      {
+        "foodName": "thit_trau_gac_bep",
+        "foodType": "Kho",
+        "calories": 450,
+        "price": 50000
+      },
+      {
+        "foodName": "tiet_canh",
+        "foodType": "Kho",
+        "calories": 300,
+        "price": 20000
+      },
+      {
+        "foodName": "trung_omelet",
+        "foodType": "Kho",
+        "calories": 250,
+        "price": 15000
+      },
+      {
+        "foodName": "trung_vit_lon",
+        "foodType": "Kho",
+        "calories": 200,
+        "price": 15000
+      },
+      {
+        "foodName": "xoi_gac",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 15000
+      },
+      {
+        "foodName": "xoi_nep_than",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 15000
+      },
+      {
+        "foodName": "xoi_xeo",
+        "foodType": "Kho",
+        "calories": 400,
+        "price": 15000
+      }
+    ]
+  }
+]
